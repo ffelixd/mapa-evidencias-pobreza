@@ -19,6 +19,10 @@ A página é um único arquivo, `index.html`. Não precisa de instalação nem d
 | Base de estudos | Os 359 estudos, com citações, achados extraídos e os achados do relatório que cada um sustenta |
 | Como ler e como foi feito | Convenções de leitura e método |
 
+## Árvore de problemas
+
+A pasta `arvore/` traz a árvore de problemas atualizada, com o pôster A1 e a página interativa de cada achado. Com o GitHub Pages ativo: https://ffelixd.github.io/mapa-evidencias-pobreza/arvore/
+
 ## Fontes dos dados
 
 - Relatório: `Sintese_Pobreza_Achados.docx`.
