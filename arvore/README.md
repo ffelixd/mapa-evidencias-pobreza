@@ -30,6 +30,7 @@ Os QR Codes do pôster apontam para esse endereço. O QR de cada caixa abre a ja
 
 | Data | O que mudou |
 |---|---|
+| 04/11/2026 (17h45) | Sai a seta de ordem do bloco B e as caixas voltam à sequência B1 a B10 dentro de cada nível. Títulos e conteúdos revistos às 17h continuam. Pôsteres A1 e A2 regerados. |
 | 04/11/2026 (17h30) | Seta no bloco B indica a ordem, do fator mais distante ao mais próximo da renda da família. No celular, as caixas de cada nível seguem essa mesma ordem. Pôsteres A1 e A2 regerados; para parede, o recomendado é o A1. |
 | 04/11/2026 (17h) | Bloco B reorganizado sem mudar os níveis: em cada nível, o fator mais distante fica à esquerda e o mais próximo, junto ao bloco A. B1 passa a tratar de recessões e renda do trabalho (com o salário mínimo), e B2, da piora da distribuição de renda, cada um com contagem própria de estudos. Títulos de B1 a B9 e de E4 reescritos para nomear o fator e, quando a síntese sustenta, o mecanismo. Pôsteres A1 e A2 regerados. |
 | 04/11/2026 (15h) | Lacunas na largura da página. Na janela de cada caixa, sai a seção "Na árvore" (a lacuna passa para a força da evidência), os títulos das seções mudam e as frases dos principais achados dizem o achado. Ciclos de trabalho informal e entre gerações refeitos. Pôsteres A1 e A2 regerados com essas mudanças. |
