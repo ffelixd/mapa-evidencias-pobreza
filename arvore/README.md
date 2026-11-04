@@ -28,5 +28,6 @@ Os QR Codes do pôster apontam para esse endereço. O QR de cada caixa abre a ja
 
 | Data | O que mudou |
 |---|---|
+| 04/11/2026 (manhã) | Ajustes após a revisão do sumário executivo da síntese. Títulos novos em E1, A3, B7 e D1; E1 apresenta a redução da extrema pobreza como simulação e o valor a preços de 2025; E2 traz a base de preços do R$ 157; A4 identifica os benefícios dos idosos; C3 nomeia a transmissão intergeracional; cabeçalho com o novo título da síntese. Pôster A1 regerado. |
 | 04/11/2026 | Página alinhada à versão final da síntese. Marca de onde o Bolsa Família incide em cada caixa dos blocos A, B e C, com legenda e a seção "Onde o Bolsa Família entra" na janela. Trechos da síntese ressincronizados. Correções em B1, B6, B7, C1, E3 e E4; A3 passa a "transitória"; D3 trata saúde nos dois sentidos; nova lacuna sobre pobreza crônica. O pôster A1 ainda não foi regerado. |
 | 02/11/2026 | Primeira publicação no repositório. Linguagem das caixas revista, fonte e QR em cada caixa, nova janela de achado (modelo completo em E1). |
