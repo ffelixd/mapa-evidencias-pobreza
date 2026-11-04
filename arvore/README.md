@@ -28,4 +28,5 @@ Os QR Codes do pôster apontam para esse endereço. O QR de cada caixa abre a ja
 
 | Data | O que mudou |
 |---|---|
+| 04/11/2026 | Página alinhada à versão final da síntese. Marca de onde o Bolsa Família incide em cada caixa dos blocos A, B e C, com legenda e a seção "Onde o Bolsa Família entra" na janela. Trechos da síntese ressincronizados. Correções em B1, B6, B7, C1, E3 e E4; A3 passa a "transitória"; D3 trata saúde nos dois sentidos; nova lacuna sobre pobreza crônica. O pôster A1 ainda não foi regerado. |
 | 02/11/2026 | Primeira publicação no repositório. Linguagem das caixas revista, fonte e QR em cada caixa, nova janela de achado (modelo completo em E1). |
