@@ -146,15 +146,22 @@ const IDX = E.map(e => norm([e.n, e.a, e.y, e.t, e.v].join(' ')));
 let lim = 60;
 function render(){
   const q = norm($('#q').value.trim()), fs = $('#fs').value, fq = $('#fq').value, fd = $('#fd').value, fb = $('#fb').value, fj = $('#fj').checked;
-  const sel = E.filter((e, i) => (!q || String(e.n) === q || IDX[i].includes(q)) && (!fs || e.st === fs) && (!fq || e.q.includes(fq)) && (!fd || e.des === fd) && (!fb || e.box.includes(fb) || e.boxc.includes(fb)) && (!fj || e.sjr));
+  const sel = E.filter((e, i) => (!q || (/^\d+$/.test(q) ? String(e.n) === q : IDX[i].includes(q))) && (!fs || e.st === fs) && (!fq || e.q.includes(fq)) && (!fd || e.des === fd) && (!fb || e.box.includes(fb) || e.boxc.includes(fb)) && (!fj || e.sjr));
   $('#rows').innerHTML = sel.length ? sel.slice(0, lim).map(row).join('') : '<tr><td colspan="4" class="empty">Nenhum estudo com esses filtros. Limpe a busca ou escolha outra opção.</td></tr>';
   $('#qn').textContent = `${sel.length} ${sel.length === 1 ? 'estudo' : 'estudos'}`;
   $('#more').hidden = sel.length <= lim;
 }
 ['#q','#fs','#fq','#fd','#fb','#fj'].forEach(id => $(id).addEventListener('input', () => { lim = 60; render(); }));
 $('#more').addEventListener('click', () => { lim += 120; render(); });
-const h = decodeURIComponent(location.hash.slice(1)); if (/^[A-E]\d+$/.test(h) && BOX.includes(h)) $('#fb').value = h;
-render();
+function route(){
+  let h = ''; try { h = decodeURIComponent(location.hash.slice(1)).trim(); } catch (e) {}
+  if (/^[A-E]\d+$/i.test(h) && BOX.includes(h.toUpperCase())) { $('#fb').value = h.toUpperCase(); $('#q').value = ''; }
+  else if (/^\d+$/.test(h)) { $('#q').value = h; $('#fb').value = ''; }
+  lim = 60; render();
+  if (/^\d+$/.test(h)) { const r = document.querySelector('#rows tr'); if (r) r.scrollIntoView({block: 'center'}); }
+}
+window.addEventListener('hashchange', route);
+route();
 </script>
 </body>
 </html>
