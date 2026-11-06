@@ -30,6 +30,7 @@ Os QR Codes do pôster apontam para esse endereço. O QR de cada caixa abre a ja
 
 | Data | O que mudou |
 |---|---|
+| 05/11/2026 (22h) | Capítulo 7 revisado. A3 passa a mostrar as duas escalas de tempo (um ano e dez anos, com o 83% do estudo 84) e reúne os sinais de armadilha da pobreza. C1 tem novo título: perda de trabalho, filhos pequenos e choques de renda abrem episódios de pobreza, e os mais pobres têm pouca proteção. C2 e C3 com os títulos do quadro 7 (tempo no programa; pontas da distribuição e ocupação). Lacuna de pobreza crônica cita a falta de decomposição por eventos. Página de estudos com as citações da seção 7 refeitas. Pôsteres A1 e A2 regerados. |
 | 05/11/2026 | Bloco C: os trechos da síntese na janela de C1, C2 e C3 passam a vir do capítulo 7 (persistência, entrada e saída), nas subseções de cada caixa. Antes vinham do capítulo 11. |
 | 04/11/2026 (17h45) | Sai a seta de ordem do bloco B e as caixas voltam à sequência B1 a B10 dentro de cada nível. Títulos e conteúdos revistos às 17h continuam. Pôsteres A1 e A2 regerados. |
 | 04/11/2026 (17h30) | Seta no bloco B indica a ordem, do fator mais distante ao mais próximo da renda da família. No celular, as caixas de cada nível seguem essa mesma ordem. Pôsteres A1 e A2 regerados; para parede, o recomendado é o A1. |
